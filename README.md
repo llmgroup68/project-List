@@ -16,10 +16,6 @@ Project3: implement length extension attack for SM3, SHA256, etc.
 
 https://github.com/llmgroup68/homework-group68project3
 
-Project4: do your best to optimize SM3 implementation (software)
-
-https://github.com/llmgroup68/homework-group68project4
-
 Project10: report on the application of this deduce technique in Ethereum with ECDSA
 
 https://github.com/llmgroup68/homework-group68project10
@@ -43,3 +39,6 @@ https://github.com/llmgroup68/homework-llmgroup68project19
 Project20: ECMH PoC
 
 https://github.com/llmgroup68/homework-group68project20
+
+
+共完成9个项目
