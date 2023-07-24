@@ -6,5 +6,5 @@
 
 project1:implement the naïve birthday attack of reduced SM3
 
-
+ https://github.com/llmgroup68/homework-group68project1
 
